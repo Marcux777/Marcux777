@@ -4,7 +4,8 @@ Sou um desenvolvedor iniciante. Atualmente estudo na Puc-GO, cursando o bacharel
 
 ## Algumas informações sobre mim:
 
-- 🌱 Atualmente estou estudando focado emm problemas de Programação Competitiva
+- 📚 Período [4/10]
+- 🌱 Atualmente estou estudando focado em problemas de Programação Competitiva
 - 📫 Como me contatar: marcusviny63@gmail.com
 - 😄 Pronomes: [ele/dele]
 
