@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, eu sou Marcus!
 
-<!--
-**Marcux777/Marcux777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor iniciante. Atualmente estudo na Puc-GO, cursando o bacharel de Ciência da Computação
 
-Here are some ideas to get you started:
+## Algumas informações sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou estudando focado emm problemas de Programação Competitiva
+- 📫 Como me contatar: marcusviny63@gmail.com
+- 😄 Pronomes: [ele/dele]
+
+## Atualmente
+
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+## Estatísticas do meu GitHub:
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula)
+
+## Meus contatos:
+
+- [LinkedIn](https://www.linkedin.com/in/marcus-silva-85524a180/)
