@@ -1,6 +1,6 @@
 # Olá, eu sou Marcus!
 
-Sou um desenvolvedor iniciante. Atualmente estudo na Puc-GO, cursando o bacharel de Ciência da Computação
+Sou um desenvolvedor iniciante. Atualmente estudo na Puc-GO, cursando Ciência da Computação
 
 ## Algumas informações sobre mim:
 
