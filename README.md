@@ -1,14 +1,5 @@
 # Olá, eu sou Marcus!
 
-Sou um desenvolvedor iniciante. Atualmente estudo na Puc-GO, cursando Ciência da Computação
-
-## Algumas informações sobre mim:
-
-- 📚 Período [4/10]
-- 🌱 Atualmente estou estudando focado em problemas de Programação Competitiva
-- 📫 Como me contatar: marcusviny63@gmail.com
-- 😄 Pronomes: [ele/dele]
-
 ## Programando...
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
