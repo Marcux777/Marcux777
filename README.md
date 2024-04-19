@@ -1,8 +1,8 @@
-# Olá, eu sou Marcus!
+![image](https://github.com/Marcux777/Marcux777/assets/77116012/f36029aa-a070-4aae-b01d-a7c9d326d864)# Olá, eu sou Marcus!
 
 ## Programando...
 
-![teste]([https://i.imgur.com/https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/.gif](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/))
+![image](https://github.com/Marcux777/Marcux777/assets/77116012/7b182af0-a938-4abc-8fd7-968b9945730b)
 
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -15,3 +15,4 @@
 ## Meus contatos:
 
 - [LinkedIn](https://www.linkedin.com/in/marcus-silva-85524a180/)
+![Uploading image.png…]()
