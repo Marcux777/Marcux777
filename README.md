@@ -1,8 +1,8 @@
-![image](https://github.com/Marcux777/Marcux777/assets/77116012/f36029aa-a070-4aae-b01d-a7c9d326d864)# Olá, eu sou Marcus!
+# Olá, eu sou Marcus!
 
 ## Programando...
 
-![image](https://github.com/Marcux777/Marcux777/assets/77116012/7b182af0-a938-4abc-8fd7-968b9945730b)
+![image](https://github.com/Marcux777/Marcux777/assets/77116012/a37f8a65-56a9-41fc-9d5b-6bb2b3eb0840)
 
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
