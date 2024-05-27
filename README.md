@@ -13,7 +13,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap)](https://leetcode.com/u/Marcux777/)
-
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marcus777)](https://codeforces.com/profile/marcus777)
 
 ## Meus contatos:
 
