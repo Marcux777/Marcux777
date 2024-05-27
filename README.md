@@ -11,10 +11,10 @@
 
 ## Estatísticas:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap)](https://leetcode.com/u/Marcux777/)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marcus777)](https://codeforces.com/profile/marcus777)
-[![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=Marcux777)](https://github.com/Marcux777/atcoder-stats)
+[![Atcoder Stats](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=Marcux777)](https://github.com/Marcux777/atcoder-stats)
 ## Meus contatos:
 
 - [LinkedIn](https://www.linkedin.com/in/marcus-silva-85524a180/)
