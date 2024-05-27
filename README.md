@@ -12,11 +12,11 @@
 ## Estatísticas:
 
 <a href="https://leetcode.com/u/Marcux777/"><img src="https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap" width="500" height="300"></a>
-<a href="URL do seu perfil no Atcoder"><img src="URL do ícone do Atcoder" width="500" height="300"></a>
+<a href="https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dark&width=350"><img src="https://github.com/iwbc-mzk/atcoder-readme-stats" width="500" height="300"></a>
 <a href="URL do seu perfil no Codeforces"><img src="URL do ícone do Codeforces" width="500" height="300"></a>
 <img src="URL das suas estatísticas do GitHub" width="500" height="300">
 
-[![Atcoder Stats](https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dark&width=350)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![Atcoder Stats]()]()
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marcus777)](https://codeforces.com/profile/marcus777)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula)
 
