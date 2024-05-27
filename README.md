@@ -12,7 +12,7 @@
 ## Estatísticas:
 
 <a href="https://leetcode.com/u/Marcux777/"><img src="https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap" width="500" height="300"></a>
-[![](https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dark&width=350)](https://atcoder.jp/users/Marcux777)
+[![](https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dark&width=330)](https://atcoder.jp/users/Marcux777)
 <a href="https://codeforces.com/profile/marcus777"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=marcus777" width="500" height="300"></a>
 <a href="https://github.com/Marcux777"><img src="https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula" width="500" height="300">
 
