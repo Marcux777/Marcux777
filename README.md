@@ -11,10 +11,10 @@
 
 ## Estatísticas:
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Marcux777?theme=dracule&font=Domine&ext=heatmap)](https://leetcode.com/u/Marcux777/)
-[![Marcux777 Atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dracule&width=350)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Marcux777?theme=dracula&font=Domine&ext=heatmap)](https://leetcode.com/u/Marcux777/)
+[![Marcux777 Atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dracula&width=350)](https://github.com/iwbc-mzk/atcoder-readme-stats)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marcus777)](https://codeforces.com/profile/marcus777)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracule)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula)
 
 
 ## Meus contatos:
