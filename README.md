@@ -1,4 +1,5 @@
 # Olá, eu sou Marcus!
+Sou estudante de Ciência da Computação apaixonado por algoritmos, ciência de dados e otimização. Tenho experiência com C++ e Python, e estou constantemente me desafiando em plataformas de programação competitiva e participando de competições em geral. Sempre em busca de aprender algo novo e aplicar meus conhecimentos em projetos práticos.
 
 ## Programando...
 ~~~cpp
@@ -39,6 +40,9 @@
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Meus contatos:
 
