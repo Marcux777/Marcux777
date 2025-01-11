@@ -1,5 +1,7 @@
 # Olá, eu sou Marcus!
-Sou estudante de Ciência da Computação apaixonado por algoritmos, ciência de dados e otimização. Tenho experiência com C++ e Python, e estou constantemente me desafiando em plataformas de programação competitiva e participando de competições em geral. Sempre em busca de aprender algo novo e aplicar meus conhecimentos em projetos práticos.
+
+Hello everyone!! How are you? I fine :D
+Oh mah gahh!! :O
 
 ## Programando...
 ~~~cpp
