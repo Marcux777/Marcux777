@@ -1,6 +1,6 @@
 # Olá, eu sou Marcus!
 
-Hello everyone!! How are you? I fine :D
+Hello everyone!! How are you? I'm fine :D
 
 Oh mah gahh!! :O
 
