@@ -29,8 +29,10 @@
 ### 🚀 Projetos Destacados
 
 - **[Classificação de URLs Maliciosas](https://github.com/Marcux777/URL-Classification)**: Sistema de detecção de phishing e URLs maliciosas usando machine learning
-- **[Problemas de Otimização](https://github.com/Marcux777/Traveling-Salesman-Problem)**: Implementações de algoritmos para problemas clássicos como TSP e Bin Packing
 - **[Programação Competitiva](https://github.com/Marcux777/Programacao_Competitiva)**: Soluções para problemas de maratonas de programação
+- **[Bin Packing Problem](Bin-Packing-Problem)**: Implementação para o problema de empacotamento 1D
+- **[Traveling Salesman Problem](https://github.com/Marcux777/Traveling-Salesman-Problem)**: Implementações de algoritmos para o problema clássico TSP
+
 
 ### 📚 Áreas de Interesse
 
