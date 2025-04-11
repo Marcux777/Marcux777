@@ -1,16 +1,47 @@
-# Olá, eu sou Marcus!
+# Literalmente Eu
 
-## Programando...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-silva-85524a180/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcux777)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6200-3781)
+
+### 🛠️ Tecnologias & Ferramentas
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Estatísticas:
+### 🏆 Perfis Competitivos
 
-<a href="https://leetcode.com/u/Marcux777/"><img src="https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap" width="400" height="350"></a>
-[![](https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dark&width=350)](https://atcoder.jp/users/Marcux777)
-<a href="https://codeforces.com/profile/marcus777"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=marcus777" width="400" height="250"></a>
-<a href="https://github.com/Marcux777"><img src="https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula" width="400" height="250">
+<div align="center">
+  <a href="https://leetcode.com/u/Marcux777/"><img src="https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap" width="400"></a>
+  <a href="https://atcoder.jp/users/Marcux777"><img src="https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dark" width="400"></a>
+</div>
+
+<div align="center">
+  <a href="https://codeforces.com/profile/marcus777"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=marcus777" width="400"></a>
+  <a href="https://github.com/Marcux777"><img src="https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula" width="400"></a>
+</div>
+
+### 🚀 Projetos Destacados
+
+- **[Classificação de URLs Maliciosas](https://github.com/Marcux777/URL-Classification)**: Sistema de detecção de phishing e URLs maliciosas usando machine learning
+- **[Problemas de Otimização](https://github.com/Marcux777/Traveling-Salesman-Problem)**: Implementações de algoritmos para problemas clássicos como TSP e Bin Packing
+- **[Programação Competitiva](https://github.com/Marcux777/Programacao_Competitiva)**: Soluções para problemas de maratonas de programação
+
+### 📚 Áreas de Interesse
+
+- Algoritmos de Otimização
+- Machine Learning
+- Segurança Cibernética
+- Estruturas de Dados Avançadas
+- Programação Competitiva
+
+---
+
+<div align="center">
+  <i>"i wanted to win..."</i>
+</div>
