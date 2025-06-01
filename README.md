@@ -28,7 +28,6 @@
 
 ### 🚀 Projetos Destacados
 
-- **[Desafio SBPO 2025](https://github.com/Marcux777/challenge-sbpo-2025)**: Desafio de Otimização SBPO 2025
 - **[Programação Competitiva](https://github.com/Marcux777/Programacao_Competitiva)**: Soluções para problemas de maratonas de programação
 - **[Bin Packing Problem](Bin-Packing-Problem)**: Implementação para o problema de empacotamento 1D
 - **[Traveling Salesman Problem](https://github.com/Marcux777/Traveling-Salesman-Problem)**: Implementações de algoritmos para o problema clássico TSP
