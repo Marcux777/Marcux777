@@ -45,4 +45,5 @@
 
 <div align="center">
   <i>"i wanted to win..."</i>
+  <i>"But... my insignificance won't be an excuse to stop chasing after the grandness."</i>
 </div>
