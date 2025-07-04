@@ -50,5 +50,5 @@
   <i>"I wanted to win..."</i><br>
   "But my insignificance will never be an excuse to stop chasing after greatness."<br>
   "Only the cowardly and the defeated seek out excuses."<br>
-  "Even if tears stream down and snot runs free, I will continue to climb the mountain — for this is the true joy of life."
+  "Even if tears stream down and snot runs free, I will continue to climb the mountain — for this is the true joy of life." - Fang Yuan
 </div>
