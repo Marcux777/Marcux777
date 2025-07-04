@@ -31,15 +31,6 @@
 
 ---
 
-<div align="center">
-  <i>"I wanted to win..."</i><br>
-  "But my insignificance will never be an excuse to stop chasing after greatness."<br>
-  "Only the cowardly and the defeated seek out excuses."<br>
-  "Even if tears stream down and snot runs free, I will continue to climb the mountain — for this is the true joy of life."
-</div>
-
----
-
 ### 🏆 Perfis Competitivos
 
 <div align="center">
@@ -50,4 +41,14 @@
 <div align="center">
   <a href="https://leetcode.com/u/Marcux777/"><img src="https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap" width="400"></a>
   <a href="https://github.com/Marcux777"><img src="https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula" width="400"></a>
+</div>
+
+
+---
+
+<div align="center">
+  <i>"I wanted to win..."</i><br>
+  "But my insignificance will never be an excuse to stop chasing after greatness."<br>
+  "Only the cowardly and the defeated seek out excuses."<br>
+  "Even if tears stream down and snot runs free, I will continue to climb the mountain — for this is the true joy of life."
 </div>
