@@ -44,6 +44,9 @@
 ---
 
 <div align="center">
-  <i>"i wanted to win..."</i>
-  <i>"But... my insignificance won't be an excuse to stop chasing after the grandness."</i>
+  <i>"I wanted to win..."</i><br>
+  "But my insignificance will never be an excuse to stop chasing after greatness."<br>
+  "Only the cowardly and the defeated seek out excuses."<br>
+  "Even if tears stream down and snot runs free, I will continue to climb the mountain — for this is the true joy of life."
 </div>
+
