@@ -14,18 +14,6 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🏆 Perfis Competitivos
-
-<div align="center">
-  <a href="https://atcoder.jp/users/Marcux777"><img src="https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dark" width="400"></a>
-  <a href="https://codeforces.com/profile/marcus777"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=marcus777" width="400"></a>
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/u/Marcux777/"><img src="https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap" width="400"></a>
-  <a href="https://github.com/Marcux777"><img src="https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula" width="400"></a>
-</div>
-
 ### 🚀 Projetos Destacados
 
 - **[Programação Competitiva](https://github.com/Marcux777/Programacao_Competitiva)**: Soluções para problemas de maratonas de programação
@@ -50,3 +38,16 @@
   "Even if tears stream down and snot runs free, I will continue to climb the mountain — for this is the true joy of life."
 </div>
 
+---
+
+### 🏆 Perfis Competitivos
+
+<div align="center">
+  <a href="https://atcoder.jp/users/Marcux777"><img src="https://atcoder-readme-stats.vercel.app/stats/Marcux777?show_history=5&theme=dark" width="400"></a>
+  <a href="https://codeforces.com/profile/marcus777"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=marcus777" width="400"></a>
+</div>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Marcux777/"><img src="https://leetcard.jacoblin.cool/Marcux777?theme=dark&font=Domine&ext=heatmap" width="400"></a>
+  <a href="https://github.com/Marcux777"><img src="https://github-readme-stats.vercel.app/api?username=Marcux777&show_icons=true&theme=dracula" width="400"></a>
+</div>
