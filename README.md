@@ -18,7 +18,7 @@
 
 - **[Programação Competitiva](https://github.com/Marcux777/Programacao_Competitiva)**: Soluções para problemas de maratonas de programação
 - **[Bin Packing Problem](Bin-Packing-Problem)**: Implementação para o problema de empacotamento 1D
-- **[Traveling Salesman Problem](https://github.com/Marcux777/Traveling-Salesman-Problem)**: Implementações de algoritmos para o problema clássico TSP
+- **[Traveling Salesman Problem](https://github.com/Fear-Hungry/Genetic-Algorithms-for-the-Travelling-Salesman-Problem)**: Implementações de algoritmos para o problema clássico TSP
 
 
 ### 📚 Áreas de Interesse
