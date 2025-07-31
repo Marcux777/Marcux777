@@ -17,8 +17,7 @@
 ### 🚀 Projetos Destacados
 
 - **[Programação Competitiva](https://github.com/Marcux777/Programacao_Competitiva)**: Soluções para problemas de maratonas de programação
-- **[Bin Packing Problem](Bin-Packing-Problem)**: Implementação para o problema de empacotamento 1D
-- **[Traveling Salesman Problem](https://github.com/Fear-Hungry/Genetic-Algorithms-for-the-Travelling-Salesman-Problem)**: Implementações de algoritmos para o problema clássico TSP
+- **[NP](https://github.com/Fear-Hungry/)**: Implementações de algoritmos para o problema clássico de otimização
 
 
 ### 📚 Áreas de Interesse
