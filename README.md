@@ -18,6 +18,7 @@
 
 - **[Programação Competitiva](https://github.com/Marcux777/Programacao_Competitiva)**: Soluções para problemas de maratonas de programação
 - **[NP](https://github.com/Fear-Hungry/)**: Implementações de algoritmos para o problema clássico de otimização
+- **[Iniciação Ciêntifica](https://github.com/Mercado-Financeiro/IC-Marcus)(2024/2-2025/1)**
 
 
 ### 📚 Áreas de Interesse
