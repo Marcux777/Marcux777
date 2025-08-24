@@ -17,7 +17,10 @@
 ### 🚀 Projetos Destacados
 
 - **[Programação Competitiva](https://github.com/Marcux777/Programacao_Competitiva)**: Soluções para problemas de maratonas de programação
-- **[NP](https://github.com/Fear-Hungry/)**: Implementações de algoritmos para o problema clássico de otimização
+- **[Problemas NP](https://github.com/Fear-Hungry/)**: Implementações de algoritmos para o problema clássico de otimização
+  - **[Caixeiro Viajante + Rust](https://github.com/Fear-Hungry/Genetic-Algorithms-for-the-Travelling-Salesman-Problem)**: Reprodução de Paper
+  - **[Caixeiro Viajante + Julia](https://github.com/Fear-Hungry/TSP-Julia)**: Solver utilizando Algoritmo Genetico.
+  - **[Job Shop Problem](https://github.com/Fear-Hungry/Job-Shop-Problem)**
 - **[Iniciação Cientifica](https://github.com/Mercado-Financeiro/IC-Marcus) (2024/2-2025/1)**
 
 
